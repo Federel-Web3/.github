@@ -86,6 +86,8 @@ Recomendamos o uso do `nvm` para usar múltiplas versões e escolher a correta.
 - [Harhdat](https://hardhat.org/) - Smart contract Development Framework
 - [Nextjs](https://nextjs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Nestjs](https://nestjs.com) - Backend Framework
+
 - [TheGraph](https://thegraph.com/en/) - Smart Contract Event Indexer
 
 ## ✍️ Authors <a name = "authors"></a>
