@@ -90,7 +90,7 @@ Recomendamos o uso do `nvm` para usar múltiplas versões e escolher a correta.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-Participantes do projeto[contributors](https://github.com/orgs/Federel-Web3/people)
+ [Participantes do projeto](https://github.com/orgs/Federel-Web3/people)
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
