@@ -97,3 +97,9 @@ Recomendamos o uso do `nvm` para usar múltiplas versões e escolher a correta.
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
 Agradeço à todos integrantes do nosso grupo!
+
+## Licensa de software
+
+Todo o código dessa organização está sobre licensa MIT:
+
+https://github.com/Federel-Web3/.github/blob/master/profile/License.md
